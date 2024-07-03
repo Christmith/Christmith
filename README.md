@@ -19,7 +19,7 @@
   <a href="https://www.facebook.com/yohanchristmith" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" width="30" height="30" style="margin-right: 10px;" />
   </a>
-  <a href="https://www.instagram.com/yohanchristmith" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.instagram.com/hristmith" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Instagram" width="30" height="30" style="margin-right: 10px;" />
   </a>
 </p>
