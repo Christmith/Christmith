@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Yohan Christmith</h1>
 <h3 align="center">A software engineering undergraduate student at SLIIT</h3>
 
-- 🔭 I'm passionate about full-stack development and creating innovative solutions.
-- 📚 I love learning new tech and building impactful projects.
+- 💻 I'm passionate about full-stack development and creating innovative solutions 💡.
+- 📚 I love learning new tech and contributing to impactful projects.
+- 🔭 Currently, I am seeking a software engineering internship.
 - 🤝 Let's connect! 
-
 - 📫 How to reach me **yohanchristmith@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
