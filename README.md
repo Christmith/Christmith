@@ -92,9 +92,6 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
-  <a href="https://www.instagram.com/yohanchristmith" target="_blank" rel="noopener noreferrer">
-    <img src="https://image.flaticon.com/icons/png/512/1384/1384063.png" alt="Instagram" width="30" height="30" style="margin-right: 10px;" />
-  </a>
 </p>
 
 <p align="left">
