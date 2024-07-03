@@ -104,6 +104,8 @@
 
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api/?username=christmith&show_icons=true&locale=en" alt="GitHub Stats" height="150em" style="flex: 1; margin-right: 10px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=christmith" alt="GitHub Streak" height="150em" style="flex: 1;" />
+    <a href="https://github.com/christmith" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="30" height="30" style="margin-right: 10px;" />
+  </a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christmith&layout=compact&show_icons=true&locale=en" alt="Top Languages" height="150em" style="flex: 1; margin-right: 10px;" />
 </div>
