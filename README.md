@@ -95,7 +95,7 @@
 
 <p align="left">
   <a href="https://github.com/christmith" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"/>
   </a>
 </p>
 
@@ -107,12 +107,6 @@
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=christmith" alt="christmith" /></a>
 </p>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=christmith&show_icons=true&locale=en&layout=compact" alt="christmith" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=christmith&show_icons=true&locale=en" alt="christmith" /></p>
 
 
 
