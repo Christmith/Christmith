@@ -83,10 +83,7 @@
 <p align="left">
   <img src="https://img.shields.io/github/followers/christmith?label=Followers&style=social" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/christmith?label=Stars&style=social" alt="GitHub Stars" />
-  <img src="https://img.shields.io/github/repos/christmith?label=Repositories&style=social" alt="GitHub Repositories" />
-  <img src="https://img.shields.io/github/issues/christmith?label=Issues&style=social" alt="GitHub Issues" />
-  <img src="https://img.shields.io/github/issues-pr/christmith?label=Pull%20Requests&style=social" alt="GitHub Pull Requests" />
-  <img src="https://img.shields.io/github/forks/christmith?label=Forks&style=social" alt="GitHub Forks" />
+  
 </p>
 
 <p align="left">
