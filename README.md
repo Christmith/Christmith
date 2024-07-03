@@ -103,7 +103,7 @@
 
 
 
-<div style="display: flex; flex-wrap: wrap;">
+<div style="display: flex; flex-wrap: wrap; align: center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christmith&layout=compact&show_icons=true&locale=en" alt="christmith" height="140em" style="flex: 1; margin-right: 10px;" />
   <img src="https://github-readme-stats.vercel.app/api/?username=christmith&show_icons=true&locale=en" alt="christmith" height="140em" style="flex: 1; margin-right: 10px;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=christmith" alt="christmith" height="140em" style="flex: 1;" />
