@@ -103,11 +103,11 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=christmith&show_icons=true&locale=en&layout=compact" alt="christmith" height="120em"/></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=christmith&show_icons=true&locale=en" alt="christmith" height="120em"/></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christmith&" alt="christmith" height="120em"/></p>
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christmith&layout=compact&show_icons=true&locale=en" alt="christmith" height="120em" style="flex: 1; margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/?username=christmith&show_icons=true&locale=en" alt="christmith" height="120em" style="flex: 1; margin-right: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=christmith" alt="christmith" height="120em" style="flex: 1;" />
+</div>
 
 
 
