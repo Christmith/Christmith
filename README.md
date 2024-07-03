@@ -83,7 +83,7 @@
 <p align="left">
   <img src="https://img.shields.io/github/followers/christmith?label=Followers&style=social" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/christmith?label=Stars&style=social" alt="GitHub Stars" />
-  <img src="https://img.shields.io/github/repos/christmith?label=Repositories&style=social" alt="GitHub Repositories" />
+  <img src="https://img.shields.io/github/repos/stars/christmith?label=Stars&style=social" alt="GitHub Stars" />
   
   
 </p>
