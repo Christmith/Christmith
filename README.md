@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yohan Christmith</h1>
 <h3 align="center">A software engineering undergraduate student at SLIIT</h3>
 <hr>
-<div style="display: flex; align-items: center;">
-    <div style="flex: 1; padding-right: 20px;">
-        <p align="left">
+<div style="display: flex; flex-direction: row; align-items: center;">
+    <div style="flex: 1;">
+        <p style="margin: 0;">
             💻 Passionate about full-stack development and creating innovative solutions.<br>
             📚 Love learning new tech and contributing to impactful projects.<br>
             🔭 Currently seeking a software engineering internship.<br>
@@ -11,10 +11,12 @@
             📫 How to reach me <a href="mailto:yohanchristmith@gmail.com">yohanchristmith@gmail.com</a>
         </p>
     </div>
-    <div style="flex: 1;" >
-        <img alt="Coder GIF" align="right" height=250 width=350 src="https://miro.medium.com/v2/resize:fit:1400/0*NgUtI3tYLhuq5Vy0.gif" />
+    <div style="flex: 1; text-align: right;">
+        <img alt="Coder GIF" height="250" width="350" src="https://miro.medium.com/v2/resize:fit:1400/0*NgUtI3tYLhuq5Vy0.gif" />
     </div>
 </div>
+
+
 
 <hr>
 <h3 align="left">Social Links:</h3>
