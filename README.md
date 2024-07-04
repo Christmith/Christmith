@@ -1,4 +1,4 @@
-<img align="center" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif">
+<img align="center" src="https://media2.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif">
 <h1 align="center">Hi 👋, I'm Yohan Christmith</h1>
 <h3 align="center">A software engineering undergraduate student at SLIIT</h3>
 <hr>
