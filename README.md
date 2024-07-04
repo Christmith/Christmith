@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Yohan Christmith</h1>
 <h3 align="center">A software engineering undergraduate student at SLIIT</h3>
 <hr>
-<img align="right" alt="Coder GIF" height="300" width="350" src="https://miro.medium.com/v2/resize:fit:1400/0*NgUtI3tYLhuq5Vy0.gif" margin-bottom="20">
+<img align="right" alt="Coder GIF" height="300" width="350" src="https://miro.medium.com/v2/resize:fit:1400/0*NgUtI3tYLhuq5Vy0.gif">
+<br>
 💻 Passionate about full-stack development and creating innovative solutions.<br>
 📚 Love learning new tech and contributing to impactful projects.<br>
 🔭 Currently seeking a software engineering internship.<br>
