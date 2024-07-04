@@ -11,8 +11,8 @@
             📫 How to reach me <a href="mailto:yohanchristmith@gmail.com">yohanchristmith@gmail.com</a>
         </p>
     </div>
-    <div style="flex: 1;">
-        <img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/v2/resize:fit:1400/0*NgUtI3tYLhuq5Vy0.gif" />
+    <div style="flex: 1;" >
+        <img alt="Coder GIF" align="right" height=250 width=350 src="https://miro.medium.com/v2/resize:fit:1400/0*NgUtI3tYLhuq5Vy0.gif" />
     </div>
 </div>
 
