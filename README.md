@@ -15,7 +15,6 @@
         <img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/v2/resize:fit:1400/0*NgUtI3tYLhuq5Vy0.gif" />
     </div>
 </div>
-
 <hr>
 <h3 align="left">Social Links:</h3>
 <p align="left">
@@ -30,6 +29,9 @@
   </a>
   <a href="https://www.instagram.com/christmith?igsh=MWJ1cmduNGtiZ3RmdQ==" target="_blank" rel="noopener noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30" height="30" style="margin-right: 10px;" />
+  </a>
+    <a href="https://twitter.com/christmithYohan" target="_blank" rel="noopener noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_Logo_as_of_2021.svg" alt="Twitter" width="30" height="30" style="margin-right: 10px;" />
   </a>
 </p>
 <hr>
