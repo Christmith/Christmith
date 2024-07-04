@@ -8,7 +8,7 @@
 🤝 Let's connect!<br>
 📫 How to reach me <a href="mailto:yohanchristmith@gmail.com">yohanchristmith@gmail.com</a></p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Social Links:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/yohanchristmith" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" style="margin-right: 10px;" />
