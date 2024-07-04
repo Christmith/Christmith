@@ -2,7 +2,7 @@
 <h3 align="center">A software engineering undergraduate student at SLIIT</h3>
 <hr>
 <div style="display: flex; flex-direction: row; align-items: center;">
-    <div style="flex: 1;">
+    <div>
         <p style="margin: 0;">
             💻 Passionate about full-stack development and creating innovative solutions.<br>
             📚 Love learning new tech and contributing to impactful projects.<br>
@@ -11,7 +11,7 @@
             📫 How to reach me <a href="mailto:yohanchristmith@gmail.com">yohanchristmith@gmail.com</a>
         </p>
     </div>
-    <div style="flex: 1; text-align: right;">
+    <div">
         <img alt="Coder GIF" height="100" width="100" src="https://miro.medium.com/v2/resize:fit:1400/0*NgUtI3tYLhuq5Vy0.gif" />
     </div>
 </div>
@@ -119,4 +119,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christmith&layout=compact&show_icons=true&locale=en" alt="Top Languages" height="159em" style="flex: 1; margin-right: 10px;" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christmith&" alt="christmith" alt="GitHub Streak stats" height="150em" style="flex: 1; margin-right: 10px;"/>
 </div>
-why my gif image not show?
