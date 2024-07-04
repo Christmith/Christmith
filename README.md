@@ -7,7 +7,7 @@
 🔭 Currently seeking a software engineering internship.<br>
 🤝 Let's connect!<br>
 📫 How to reach me <a href="mailto:yohanchristmith@gmail.com">yohanchristmith@gmail.com</a></p>
-<img alt="Coder GIF" height=250 width=350 src="https://dribbble.com/shots/4649464-Programmer?utm_source=Pinterest_Shot&utm_campaign=kunchevsky&utm_content=Programmer&utm_medium=Social_Share" />
+<img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/v2/resize:fit:1400/0*NgUtI3tYLhuq5Vy0.gif" />
 <hr>
 <h3 align="left">Social Links:</h3>
 <p align="left">
@@ -109,3 +109,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christmith&layout=compact&show_icons=true&locale=en" alt="Top Languages" height="159em" style="flex: 1; margin-right: 10px;" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christmith&" alt="christmith" alt="GitHub Streak stats" height="150em" style="flex: 1; margin-right: 10px;"/>
 </div>
+why my gif image not show?
