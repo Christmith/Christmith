@@ -2,8 +2,8 @@
 <h3 align="center">A software engineering undergraduate student at SLIIT</h3>
 <hr>
 <div style="display: flex; flex-direction: row;">
-    <div>
-        <p style="margin: 0;">
+    <div style="flex: 1;">
+        <p align="left">
             💻 Passionate about full-stack development and creating innovative solutions.<br>
             📚 Love learning new tech and contributing to impactful projects.<br>
             🔭 Currently seeking a software engineering internship.<br>
@@ -11,12 +11,10 @@
             📫 How to reach me <a href="mailto:yohanchristmith@gmail.com">yohanchristmith@gmail.com</a>
         </p>
     </div>
-    <div">
-        <img alt="Coder GIF" height="100" width="100" src="https://miro.medium.com/v2/resize:fit:1400/0*NgUtI3tYLhuq5Vy0.gif" />
+    <div style="flex: 1; display: flex; justify-content: flex-end;">
+        <img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/v2/resize:fit:1400/0*NgUtI3tYLhuq5Vy0.gif" />
     </div>
 </div>
-
-
 
 <hr>
 <h3 align="left">Social Links:</h3>
