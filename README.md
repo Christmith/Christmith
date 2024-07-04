@@ -20,7 +20,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" width="30" height="30" style="margin-right: 10px;" />
   </a>
     <a href="https://www.instagram.com/yohanchristmith" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30" height="30" style="margin-right: 10px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30" height="30" style="margin-right: 10px;" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
