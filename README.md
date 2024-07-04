@@ -2,7 +2,7 @@
 <h3 align="center">A software engineering undergraduate student at SLIIT</h3>
 <hr>
 <p align="left">
-💻 Passionate about full-stack development and creating innovative solutions 💡.<br>
+💻 Passionate about full-stack development and creating innovative solutions.<br>
 📚 Love learning new tech and contributing to impactful projects.<br>
 🔭 Currently seeking a software engineering internship.<br>
 🤝 Let's connect!<br>
