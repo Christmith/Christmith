@@ -7,7 +7,7 @@
 🔭 Currently seeking a software engineering internship.<br>
 🤝 Let's connect!<br>
 📫 How to reach me <a href="mailto:yohanchristmith@gmail.com">yohanchristmith@gmail.com</a></p>
-
+<hr>
 <h3 align="left">Social Links:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/yohanchristmith" target="_blank" rel="noopener noreferrer">
