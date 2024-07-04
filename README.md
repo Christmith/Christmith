@@ -94,13 +94,11 @@
 
 <p align="left">
   <img src="https://img.shields.io/github/stars/christmith?label=Stars&style=social" alt="GitHub Stars" />
-  <img src="https://img.shields.io/github/repo-count/christmith?label=Repositories&style=social" alt="GitHub Repositories" />
   <img src="https://img.shields.io/github/followers/christmith?label=Followers&style=social" alt="GitHub Followers" /> 
+   <img src="https://komarev.com/ghpvc/?username=christmith&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=christmith&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+
 
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api/?username=christmith&show_icons=true&locale=en" alt="GitHub Stats" height="150em" style="flex: 1; margin-right: 10px;" />
