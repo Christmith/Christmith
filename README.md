@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yohan Christmith</h1>
 <h3 align="center">A software engineering undergraduate student at SLIIT</h3>
----
+<hr>
 <p align="left">
 💻 Passionate about full-stack development and creating innovative solutions 💡.<br>
 📚 Love learning new tech and contributing to impactful projects.<br>
