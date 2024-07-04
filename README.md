@@ -13,8 +13,8 @@
   <a href="https://www.linkedin.com/in/yohanchristmith" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" style="margin-right: 10px;" />
   </a>
-  <a href="https://github.com/christmith" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="30" height="30" style="margin-right: 10px;" />
+<a href="https://github.com/christmith" target="_blank" rel="noopener noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="30" height="30" style="margin-right: 10px;" />
   </a>
   <a href="https://www.facebook.com/yohanchristmith" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" width="30" height="30" style="margin-right: 10px;" />
@@ -95,7 +95,7 @@
 <p align="left">
   <img src="https://img.shields.io/github/stars/christmith?label=Stars&style=social" alt="GitHub Stars" />
   <img src="https://img.shields.io/github/followers/christmith?label=Followers&style=social" alt="GitHub Followers" /> 
-   <img src="https://komarev.com/ghpvc/?username=christmith&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=christmith&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 
