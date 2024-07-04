@@ -113,3 +113,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christmith&layout=compact&show_icons=true&locale=en" alt="Top Languages" height="159em" style="flex: 1; margin-right: 10px;" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christmith&" alt="christmith" alt="GitHub Streak stats" height="150em" style="flex: 1; margin-right: 10px;"/>
 </div>
+<hr>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=christmith" alt="christmith"/></a> </p>
