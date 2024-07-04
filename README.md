@@ -7,6 +7,7 @@
 🔭 Currently seeking a software engineering internship.<br>
 🤝 Let's connect!<br>
 📫 How to reach me <a href="mailto:yohanchristmith@gmail.com">yohanchristmith@gmail.com</a></p>
+<img alt="Coder GIF" height=250 width=350 src="https://dribbble.com/shots/4649464-Programmer?utm_source=Pinterest_Shot&utm_campaign=kunchevsky&utm_content=Programmer&utm_medium=Social_Share" />
 <hr>
 <h3 align="left">Social Links:</h3>
 <p align="left">
