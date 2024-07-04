@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yohan Christmith</h1>
 <h3 align="center">A software engineering undergraduate student at SLIIT</h3>
 <hr>
-<div style="display: flex; flex-direction: row; align-items: center;">
+<div style="display: flex; flex-direction: row;">
     <div>
         <p style="margin: 0;">
             💻 Passionate about full-stack development and creating innovative solutions.<br>
