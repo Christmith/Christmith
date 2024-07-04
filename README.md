@@ -23,7 +23,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30" height="30" style="margin-right: 10px;" />
   </a>
 </p>
-
+<hr>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
@@ -93,13 +93,13 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
 </p>
-
+<hr>
 <p align="left">
   <img src="https://img.shields.io/github/stars/christmith?label=Stars&style=social" alt="GitHub Stars" />
   <img src="https://img.shields.io/github/followers/christmith?label=Followers&style=social" alt="GitHub Followers" /> 
   <img src="https://komarev.com/ghpvc/?username=christmith&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-
+<hr>
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api/?username=christmith&show_icons=true&locale=en" alt="GitHub Stats" height="159em" style="flex: 1; margin-right: 10px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christmith&layout=compact&show_icons=true&locale=en" alt="Top Languages" height="159em" style="flex: 1; margin-right: 10px;" />
