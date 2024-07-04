@@ -12,7 +12,7 @@
         </p>
     </div>
     <div style="flex: 1; text-align: right;">
-        <img alt="Coder GIF" height="250" width="350" src="https://miro.medium.com/v2/resize:fit:1400/0*NgUtI3tYLhuq5Vy0.gif" />
+        <img alt="Coder GIF" height="100" width="100" src="https://miro.medium.com/v2/resize:fit:1400/0*NgUtI3tYLhuq5Vy0.gif" />
     </div>
 </div>
 
