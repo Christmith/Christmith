@@ -31,7 +31,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30" height="30" style="margin-right: 10px;" />
   </a>
  <a href="https://twitter.com/christmithYohan" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.freepik.com/premium-psd/black-brand-new-twitter-x-logo-icon_1129635-1.jpg" alt="Twitter" width="30" height="30" style="margin-right: 10px; border-radius: 50%;" />
+  <img src="https://www.freepik.com/icon/social-media_14417460#fromView=search&page=1&position=1&uuid=1ea8f063-a704-4f97-ae80-1152ff056b72" alt="Twitter" width="30" height="30" style="margin-right: 10px;" />
 </a>
 
 </p>
