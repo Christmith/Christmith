@@ -10,7 +10,7 @@
 <hr>
 <h3 align="left">Social Links:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/yohanchristmith" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/yohanchristmith?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" style="margin-right: 10px;" />
   </a>
   <a href="https://github.com/christmith" target="_blank" rel="noopener noreferrer">
