@@ -22,7 +22,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" style="margin-right: 10px;" />
   </a>
   <a href="https://github.com/christmith" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" width="30" height="30" style="margin-right: 10px;" />
+    <img src="https://cdn1.iconfinder.com/data/icons/smallicons-logotypes/32/github-512.png" alt="GitHub" width="30" height="30" style="margin-right: 10px;" />
   </a>
   <a href="https://www.facebook.com/share/q3qJK1C4vy4BMwk5/?mibextid=qi2Omg" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" width="30" height="30" style="margin-right: 10px;" />
@@ -31,7 +31,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30" height="30" style="margin-right: 10px;" />
   </a>
  <a href="https://twitter.com/christmithYohan" target="_blank" rel="noopener noreferrer">
-  <img src="https://www.freepik.com/icon/social-media_14417460#fromView=search&page=1&position=1&uuid=1ea8f063-a704-4f97-ae80-1152ff056b72" alt="Twitter" width="30" height="30" style="margin-right: 10px;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/twitter-logo-2.svg" alt="Twitter" width="30" height="30" style="margin-right: 10px;" />
 </a>
 
 </p>
